@@ -6,7 +6,7 @@
 <!ELEMENT organisations (organisation)*>
 <!ELEMENT organisation>
 <!ELEMENT contacts (contact)*>
-<!ELEMENT contact (internal, external, related)* benefits?>
+<!ELEMENT contact (internal, external, related, event)* benefits?>
 <!ELEMENT benefits (receivedBenefit*, emittedBenefit*)>
 <!ELEMENT receivedBenefit>
 <!ELEMENT emittedBenefit>
@@ -15,6 +15,11 @@
 <!ELEMENT representing>
 <!ELEMENT related>
 <!ELEMENT associate>
+<!ELEMENT event>
+<!ATTLIST event
+  organisation CDATA #IMPLIED
+  name CDATA #IMPLIED
+>
 <!ATTLIST associate
   person CDATA #REQUIRED
   relationship CDATA #IMPLIED

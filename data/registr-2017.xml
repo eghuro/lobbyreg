@@ -120,6 +120,7 @@
     <organisation id="o31" name="Entomologický ústav AVČR" wikidata="Q30258443" />
     <organisation id="o32" name="ČSOP JARO Jaroměř" />
     <organisation id="o33" name="Aliance Voda Zlínsku" />
+    <organisation id="o34" name="Brmlab" />
   </organisations>
   <roles>
     <role id="r3" name="poslanec" />
@@ -170,6 +171,7 @@
     <contact record="524354" date="2017-10-26">
         <internal person="u7762" role="r3" />
         <external person="e12" organisation="o1" />
+        <event name="setkání se zájemci o Pirátskou stranu" />
     </contact>
     <contact record="524342" date="2017-10-24">
         <internal person="u5104" role="r6" />
@@ -221,6 +223,7 @@
     <contact date="2017-10-27" record="524624">
         <internal person="u11008" role="r14" />
         <external person="e23" organisation="o18" />
+        <event name="EOL party" organisation="o34" />
     </contact>
     <contact date="2017-10-26" record="524683">
         <internal person="u10418" role="r14" />
@@ -242,6 +245,7 @@
     <contact record="524254" date="2017-10-26">
         <internal person="u1572" role="r3" />
         <external person="e28" organisation="o20" role="r19" />
+        <event name="Mobilita v Olomouci" />
     </contact>
     <contact record="524244" date="2017-10-25">
         <internal person="u11338" role="r14" />
@@ -402,6 +406,7 @@
     <contact record="524876" date="2017-10-26">
         <internal person="u10690" role="r6" />
         <external person="e59" organisation="o33" />
+        <event name="Schůze MS Zlínsko" />
     </contact>
   </contacts>
 </registr> 
