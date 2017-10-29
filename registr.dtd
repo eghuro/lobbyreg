@@ -1,0 +1,53 @@
+<!ELEMENT registr (persons, organisations, contacts, roles)>
+<!ELEMENT persons (person)*>
+<!ELEMENT person>
+<!ELEMENT roles (role)*>
+<!ELEMENT role>
+<!ELEMENT organisations (organisation)*>
+<!ELEMENT organisation>
+<!ELEMENT contacts (contact)*>
+<!ELEMENT contact (internal, external)* benefits?>
+<!ELEMENT benefits (receivedBenefit*, emittedBenefit*)>
+<!ELEMENT receivedBenefit>
+<!ELEMENT emittedBenefit>
+<!ELEMENT internal>
+<!ELEMENT external (representing)*>
+<!ELEMENT representing>
+<!ATTLIST registr
+  since CDATA #IMPLIED
+  until CDATA #IMPLIED
+  version CDATA #FIXED "1.00"
+>
+<!ATTLIST person
+  id ID #REQUIRED
+  surname CDATA #REQUIRED
+  name CDATA #IMPLIED
+  pid CDATA #IMPLIED
+>
+<!ATTLIST role
+  id ID #REQUIRED
+  name CDATA #IMPLIED
+>
+<!ATTLIST contact
+  record CDATA #IMPLIED
+  date CDATA #IMPLIED
+  place CDATA #IMPLIED
+>
+<!ATTLIST internal
+  person ID #REQUIRED
+  role CDATA #IMPLIED
+>
+<!ATTLIST external
+  person ID #REQUIRED
+  role CDATA #IMPLIED
+  organisation CDATA #IMPLIED
+>
+<!ATTLIST organisation
+  id ID #REQUIRED
+  name CDATA #IMPLIED
+  ico CDATA #REQUIRED
+>
+<!ATTLIST representing
+  organisation CDATA #REQUIRED
+  role CDATA #IMPLIED
+>
