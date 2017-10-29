@@ -1,18 +1,27 @@
 <!ELEMENT registr (persons, organisations, contacts, roles)>
 <!ELEMENT persons (person)*>
-<!ELEMENT person>
+<!ELEMENT person (associate)*>
 <!ELEMENT roles (role)*>
 <!ELEMENT role>
 <!ELEMENT organisations (organisation)*>
 <!ELEMENT organisation>
 <!ELEMENT contacts (contact)*>
-<!ELEMENT contact (internal, external)* benefits?>
+<!ELEMENT contact (internal, external, related)* benefits?>
 <!ELEMENT benefits (receivedBenefit*, emittedBenefit*)>
 <!ELEMENT receivedBenefit>
 <!ELEMENT emittedBenefit>
 <!ELEMENT internal>
 <!ELEMENT external (representing)*>
 <!ELEMENT representing>
+<!ELEMENT related>
+<!ELEMENT associate>
+<!ATTLIST associate
+  person CDATA #REQUIRED
+  relationship CDATA #IMPLIED
+>
+<!ATTLIST related
+  record CDATA #REQUIRED
+>
 <!ATTLIST registr
   since CDATA #IMPLIED
   until CDATA #IMPLIED
@@ -23,6 +32,7 @@
   surname CDATA #REQUIRED
   name CDATA #IMPLIED
   pid CDATA #IMPLIED
+  wikidata CDATA #IMPLIED
 >
 <!ATTLIST role
   id ID #REQUIRED
@@ -46,6 +56,7 @@
   id ID #REQUIRED
   name CDATA #IMPLIED
   ico CDATA #REQUIRED
+  wikidata CDATA #IMPLIED
 >
 <!ATTLIST representing
   organisation CDATA #REQUIRED

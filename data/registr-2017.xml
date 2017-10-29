@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE registr PUBLIC -//IDN eghuro.cz//LOBBY 1.00//EN purl.org/eghuro/pirate/registr/v1>
+<registr since="2017-10-23" until="2017-10-28" version="1.00">
+  <persons>
+    <person id="u6903" surname="Peksa" name="Mikuláš" pid="Mikulas.Peksa" wikidata="Q30301690" />
+    <person id="e8" surname="Kaplán" name="Ivo" />
+    <person id="e9" name="Petr" surname="Jantač" />
+    <person id="e10" name="Pavel" surname="Krnáč" />
+    <person id="e11" name="Josef" surname="Břečka" />
+    <person id="p0" name="Tony" surname="Mostakis" />
+    <person id="u283" surname="Ferjenčík" name="Mikuláš" pid="Mikulas.Ferjencik" wikidata="Q14806410" />
+    <person id="x0" /><person id="x1" />
+    <person id="u7762" name="Jan" surname="Lipavsky" pid="Jan.Lipavsky" wikidata="Q42402111" />
+    <person id="e12" name="Hayato" surname="Okamura" wikidata="Q29346164" />
+    <person id="u5104" name="Petr" surname="Lysek" pid="Petr.Lysek" />
+    <person id="e13" name="Aleš" surname="Matyášek" />
+    <person id="u902" name="Petr" surname="Kapounek" pid="Petr.Kapounek" />
+    <person id="u10226" name="Milan" surname="Fládr" pid="Milan.Fladr" />
+    <person id="e14" name="Ivo" surname="Lužný" />
+    <person id="u10928" name="František" surname="Elfmark" pid="Frantisek.Elfmark" wikidata="Q42400740" />
+    <person id="e15" name="Petr" surname="Gazdík" wikidata="Q2079976" /> 
+    <person id="e16" name="Stanislav" surname="Blaha" wikidata="Q29951532" />
+    <person id="u6812" name="Lukas" surname="Barton" pid="Lukas.Barton" wikidata="Q30934900" />
+    <person id="u655" surname="Bartos" name="Ivan" pid="Ivan.Bartos" wikidata="Q1292951" />
+    <person id="u747" surname="Michalek" name="Jakub" pid="Jakub.Michalek" wikidata="Q13578296" />
+    <person id="u10588" surname="Šimral" name="Vít" pid="Vit.Simral" />
+    <person id="e17" name="Jan" surname="Karlický" />
+    <person id="e18" surname="Klimešová" />
+    <person id="u1598" surname="Kučera" name="Roman" pid="Roman.Kucera" />
+    <person id="e19" surname="Novotný" name="Stanislav" wikidata="Q12055986" />
+    <person id="u9525" surname="Hájek" name="Pavel" />
+    <person id="e20" surname="Štyler" name="Jiří" />
+    <person id="e21" surname="Ducko" name="Milan" />
+    <person id="u682" surname="Richterová" name="Olga" pid="Olga.Richterova" wikidata="Q42311106" />
+    <person id="e22" surname="Pek" />
+    <person id="e23" surname="Rusnak" name="Pavel" />
+    <person id="u11008" surname="Kollár" name="Ivor" pid="Ivor.Kollar" />
+    <person id="u10418" name="Jan" surname="Hora" pid="Honza.Hora" />
+    <person id="e24" surname="Smetánka" name="Jakub" />
+    <person id="e25" surname="Karásek" name="David" />
+    <person id="u9408" surname="Jakl" name="Aleš" pid="Ales.Jakl" />
+    <person id="e26" surname="Hnitka" name="Petr" />
+    <person id="u9270" surname="Nepejchal" name="Jakub" pid="Jakub.Nepejchal" />
+    <person id="e27" surname="Kocourek" name="František" />
+    <person id="u1572" surname="Pikal" name="Vojtěch" pid="Vojtech.Pikal" wikidata="Q17326826" />
+    <person id="e28" surname="Martinek" name="Jaroslav" />
+    <person id="u11338" surname="Komenda" name="Adam" pid="Adam.Komenda" />
+    <person id="e29" surname="Horáková" name="Adéla" />
+    <person id="e30" surname="Navrátilová" name="Dagmar" wikidata="Q11774064" />
+    <person id="u3817" surname="Kotas" name="Ondřej" pid="Ondrej.Kotas" />
+    <person id="e31" surname="Freund" name="Martin" />
+    <person id="e32" surname="Hnyková" name="Jana" wikidata="Q15249640" />
+    <person id="u6061" surname="Martínek" name="Tomáš" pid="Tomas.Martinek" wikidata="Q42313924" />
+    <person id="e33" name="Petr" surname="Vokřál" wikidata="Q17541652" />
+    <person id="e34" name="Radek" surname="Vondráček" wikidata="Q15124202" />
+    <person id="e35" name="Jakub" surname="Janda" wikidata="Q26835666" />
+    <person id="e36" name="Jan" surname="Farský" wikidata="Q12022507" />
+    <person id="e39" name="Petr" surname="Fiala" wikidata="Q3377548" />
+    <person id="e37" name="Vít" surname="Rakušan" wikidata="Q22035584" />
+    <person id="e38" name="Dominik" surname="Feri" wikidata="Q18915317" />
+    <person id="u8116" name="František" surname="Kopřiva" pid="Frantisek.Kopriva" wikidata="Q42313752" />
+    <person id="e1" surname="Babiš" name="Andrej" wikidata="Q10819807" />
+    <person id="e39" name="Dagmar" surname="Sahánková" />
+    <person id="e40" name="Radim" surname="Fiala" wikidata="Q12048555" />
+    <person id="e41" name="Džamila" surname="Stehlíková" wikidata="Q1046372" />
+    <person id="e42" name="Petr" surname="Globočník" wikidata="Q30560748" />
+    <person id="e43" name="Jan" surname="Mach" />
+    <person id="e44" name="Stanislav" surname="Kostiha" />
+    <person id="e45" name="Jaroslav" surname="Martínek" />
+    <person id="e47" name="Jaroslav" surname="Krupka" wikidata="Q12023892" />
+    <person id="e46" name="Jiří" surname="Krupka"><associate person="e47" relationship="syn" /></person>
+    <person id="e47" name="Vladimír" surname="Vokál" wikidata="Q11910251" />
+    <person id="u9064" name="Dana" surname="Balcarová" pid="Dana.Balcarova" wikidata="Q42402077" />
+    <person id="e48" name="Zbyněk" surname="Stanjura" wikidata="Q10857406" />
+    <person id="e49" name="Alexandra" surname="Udženija" wikidata="Q22074658" />
+    <person id="e50" name="Markéta" surname="Pekarová Adamová" wikidata="Q15124118" />
+    <person id="e51" name="Jan" surname="Řežábek" />
+    <person id="e52" name="Jan" surname="Hodice" />
+    <person id="e53" name="Pavla" surname="Chotkovová" />
+    <person id="e54" name="Tomáš" surname="Pala" />
+    <person id="e55" name="Lukáš" surname="Čížek" />
+    <person id="e56" name="David" surname="Číp" />
+    <person id="e57" name="Jan" surname="Dušek" />
+    <person id="u7839" name="Dan" surname="Leština" pid="Dan.Lestina" />
+    <person id="e58" name="Tomáš" surname="Šídlo" />
+    <person id="u80" name="Michael" surname="Polák" pid="Michael.xChaos.Polak" wikidata="Q6052559" />
+    <person id="u10690" name="Radek" surname="Strouhal" pid="Radek.Strouhal" />
+    <person id="e59" name="Pavel" surname="Sekula" />
+  </persons>
+  <organisations>
+    <organisation id="o3" name="Evropani.cz" wikidata="Q16946982" />
+    <organisation id="o1" name="Křesťanská a demokratická unie - Československá strana lidová" ico="00442704" wikidata="Q1142687" />
+    <organisation id="o4" name="Unie Evropských federalistů" wikidata="Q1972527" />
+    <organisation id="o5" name="PPDE" wikidata="Q13129" />
+    <organisation id="o6" name="PPGR" />
+    <organisation id="o7" name="PPEU" wikidata="Q15081858"/> 
+    <organisation id="o8" name="TOP09" wikidata="Q651129" />
+    <organisation id="o0" name="Strana zelených" ico="00409740" wikidata="Q631218" />
+    <organisation id="o9" name="STAN" wikidata="Q1586610" />
+    <organisation id="o10" name="ODS" wikidata="Q828099" />
+    <organisation id="o11" name="Rekonstrukce státu" wikidata="Q18327741" />
+    <organisation id="o12" name="Asociace nezávislých novinářů" />
+    <organisation id="o13" name="Hnutí pro Prahu 11" />
+    <organisation id="o15" name="MČ Praha 15" wikidata="Q3490834" />
+    <organisation id="o16" name="15 náš domov" />
+    <organisation id="o17" name="MČ Praha 10" wikidata="Q2444921" />
+    <organisation id="o18" name="Satoshilabs" wikidata="Q22080632" />
+    <organisation id="o19" name="LEX" wikidata="Q12051115" />
+    <organisation id="o20" name="Svaz měst a obcí ČR" />
+    <organisation id="o21" name="Platforma pro rovnoprávnost, uznání a diverzitu: PROUD" />
+    <organisation id="o22" name="Žít Brno" wikidata="Q13217548" />
+    <organisation id="o23" name="Úsvit - Národní koalice" wikidata="Q14923603" />
+    <organisation id="o24" name="ANO" wikidata="Q10728124" />
+    <organisation id="o25" name="Think-tank Evropské hodnoty" wikidata="Q20057332" />
+    <organisation id="o26" name="město Hostinné" wikidata="Q1000467" />
+    <organisation id="o27" name="SPD" wikidata="Q20058756" />
+    <organisation id="o28" name="Total Solutions, s.r.o." />
+    <organisation id="o29" name="Logos  Česká republika" wikidata="Q12033807" />
+    <organisation id="o30" name="Governance Institute" />
+    <organisation id="o31" name="Entomologický ústav AVČR" wikidata="Q30258443" />
+    <organisation id="o32" name="ČSOP JARO Jaroměř" />
+    <organisation id="o33" name="Aliance Voda Zlínsku" />
+  </organisations>
+  <roles>
+    <role id="r3" name="poslanec" />
+    <role id="r4" name="krajsky zastupitel" />
+    <role id="r5" name="obcan" />
+    <role id="r6" name="mistni predseda" />
+    <role id="r7" name="krajsky predseda" />
+    <role id="r8" name="vedouci krajskeho MO" />
+    <role id="r1" name="asistent" />
+    <role id="r9" name="garant" />
+    <role id="r10" name="predseda" />
+    <role id="r11" name="krajsky mistopredseda" />
+    <role id="r12" name="místostarosta" />
+    <role id="r13" name="komunální zastupitel" />
+    <role id="r14" name="řadový člen" />
+    <role id="r15" name="místopředseda" />
+    <role id="r16" name="člen předsednictva" />
+    <role id="r17" name="PMS" />
+    <role id="r18" name="předseda ZO" />
+    <role id="r19" name="poradce pro oblast dopravy a mobility" />
+    <role id="r20" name="starosta" />
+    <role id="r21" name="koordinátor rozvoje cyklistické dopravy ČR" />
+  </roles>
+  <contacts>
+    <contact record="524466" date="2017-10-26">
+      <internal person="u6903" role="r3" />
+      <event organisation="o3" name="DEBATA K NÁVRHŮM IMPLEMENTACE ČLÁNKU 46 SMLOUVY O EVROPSKÉ UNII V OBLASTI SPOLEČNÉ OBRANNÉ A BEZPEČNOSTNÍ POLITIKY" />
+      <external person="e8">
+        <representing organisation="o4" />
+        <representing organisation="01" />
+      </external>
+      <external person="e9" organisation="o3" />
+      <external person="e10" organisation="o3" />
+      <external person="e11" organisation="o3" />
+      <external person="p0">
+        <representing organisation="o5" />
+        <representing organisation="o6" />
+        <representing organisation="o7" />
+      </external>
+      <benefits>
+          <receivedBenefit>sodovka</receivedBenefit>
+      </benefits>
+    </contact>
+    <contact record="524427" date="2017-10-27">
+        <internal person="u283" role="r4" />
+        <external person="x0" role="r5" />
+    </contact>
+    <contact record="524354" date="2017-10-26">
+        <internal person="u7762" role="r3" />
+        <external person="e12" organisation="o1" />
+    </contact>
+    <contact record="524342" date="2017-10-24">
+        <internal person="u5104" role="r6" />
+        <internal person="u902" role="r7" />
+        <internal person="u10226" role="r8" />
+        <external person="e13" organisation="o8" />
+    </contact>
+    <contact record="524342" date="2017-10-24">
+        <internal person="u5104" role="r6" />
+        <external person="e14" organisation="o0" role="r6" />
+    </contact>
+    <contact record="524314" date="2017-10-23">
+        <internal person="u10928" role="r3" />
+        <external person="e15" organisation="o9" role="r3"/>
+    </contact>
+    <contact record="524314" date="2017-10-23">
+        <internal person="u10928" role="r3" />
+        <external person="e16" organisation="o10" role="r3" />
+    </contact>
+    <contact record="524518" date="2017-10-27">
+        <internal person="u6812" role="r3" />
+        <internal person="u747" role="r3" />
+        <internal person="u10588" role="r1" />
+        <external person="e17" organisation="o11" />
+        <external person="e18" organisation="o11" />
+    </contact>
+    <contact record="524530" date="2017-10-27">
+        <internal person="u1598" role="r9" />
+        <external person="e19" organisation="o12" role="r10" />
+    </contact>
+    <contact record="524578">
+        <internal person="u9525" role="r11" />
+        <external person="e20" organisation="o13" />
+    </contact>
+    <contact record="524578">
+        <internal person="u9525" role="r11" />
+        <external person="e21">
+            <representing organisation="o15" role="r12" />
+            <representing organisation="o16" />
+        </external>
+        <benefits>
+            <receivedBenefit>500 Kč</receivedBenefit>
+        </benefits>
+    </contact>
+    <contact record="524586" date="2017-10-27">
+        <internal person="u682" role="r13" />
+        <external person="e22" role="r12" organisation="o17" />
+    </contact>
+    <contact date="2017-10-27" record="524624">
+        <internal person="u11008" role="r14" />
+        <external person="e23" organisation="o18" />
+    </contact>
+    <contact date="2017-10-26" record="524683">
+        <internal person="u10418" role="r14" />
+        <external person="e24" organisation="o19" role="r15" />
+        <external person="e25" organisation="o19" role="r16" />
+        <benefits>
+            <receivedBenefit>Jeden jablečný džus</receivedBenefit>
+            <emittedBenefit>Příslibil jsem informovat je o tom, kdo bude poslancem odpovědným za toto téma a zprostředkovat další schůzku.</emittedBenefit>
+        </benefits>
+    </contact>
+    <contact record="524778" date="2017-11-27">
+        <internal role="r9" person="u9408" />
+        <external person="e26" />
+    </contact>
+    <contact record="524257" date="2017-10-26">
+        <internal role="r17" person="u9270" />
+        <external organisation="o0" person="e27" role="r18" />
+    </contact>
+    <contact record="524254" date="2017-10-26">
+        <internal person="u1572" role="r3" />
+        <external person="e28" organisation="o20" role="r19" />
+    </contact>
+    <contact record="524244" date="2017-10-25">
+        <internal person="u11338" role="r14" />
+        <external person="e29" organisation="o21" />
+        <benefits><receivedBenefit>čaj</receivedBenefit></benefits> 
+    </contact>
+    <contact record="524198" date="2017-10-26">
+        <internal person="u1572" role="r3" />
+        <external person="e30" />
+        <benefits><emittedBenefit>čaj</emittedBenefit></benefits>
+    </contact>
+    <contact record="524192" date="2017-10-26">
+        <internal person="u3817" />
+        <external person="e31" organisation="o22" />
+        <benefits><receivedBenefit>1 cigareta s velbloudem</receivedBenefit><emittedBenefit>1 cigareta s velbloudem</emittedBenefit></benefits>
+    </contact>
+    <contact record="524188" date="2017-10-26">
+        <internal person="u6061" role="r3" />
+        <external person="e32" organisation="o23" role="r3" />
+    </contact>
+    <contact record="524116" date="2017-10-25">
+        <internal person="u6903" role="r3" />
+        <internal person="u655" role="r3" />
+        <internal person="u747" role="r3" />
+        <external person="e33" organisation="o24" role="r15" />
+        <external person="e34" organisation="o24" role="r3" />
+    </contact>
+    <contact record="523078" date="2017-10-23">
+        <internal person="u6903" role="r3" />
+        <internal person="u7762" role="r3" />
+        <external person="e35" organisation="o25" />
+    </contact>
+    <contact record="523111" date="2017-10-23">
+        <internal person="u8116" role="r3" />
+        <external person="e37" role="r3" organisation="o9" />
+    </contact>
+    <contact record="523111" date="2017-10-23">
+        <internal person="u8116" role="r3" />
+        <external person="e38" role="r3" organisation="o8" />
+    </contact>
+    <contact record="523114" date="2017-10-23">
+        <internal person="u655" role="r3" />
+        <external person="e36" role="r3" organisation="o9" />
+    </contact>
+    <contact record="523114" date="2017-10-23">
+        <internal person="u655" role="r3" />
+        <external person="e39" organisation="o10" role="r3" />
+    </contact>
+    <contact record="523114" date="2017-10-23">
+        <internal person="u655" role="r3" />
+        <external person="e1" organisation="o24" role="r3" />
+        <related record="522780" />
+    </contact>
+    <contact record="523198" date="2017-10-23">
+        <internal person="u655" role="r3" />
+        <internal person="u747" role="r3" />
+        <internal person="u6812" role="r3" />
+        <external person="e15" role="r3" organisation="o9" />
+        <external person="e35" role="r3" organisation="o9" />
+        <external person="e37" role="r3" organisation="o9" />
+    </contact>
+    <contact record="523624" date="2017-10-23">
+        <internal person="u1478" role="r4" />
+        <external person="e39" organisation="o26" role="r20" />
+    </contact>
+    <contact record="523297" date="2017-10-23">
+        <internal person="u747" role="r3" />
+        <external person="e33" organization="o24" role="r3" />
+    </contact>
+    <contact record="523297" date="2017-10-23">
+        <internal person="u747" role="r3" />
+        <external person="e40" role="r3" organisation="o27" />
+    </contact>
+    <contact record="523308" date="2017-10-23">
+        <internal person="u11338" role="r14" />
+        <external person="e41" />
+    </contact>
+    <contact record="523488" date="2017-10-24">
+        <internal person="u6903" role="r3" />
+        <external person="e42" organisation="o0" />
+    </contact>
+    <contact record="523504" date="2017-10-24">
+        <internal person="u7762" role="r3" />
+        <external person="e43" organisation="o28" />
+    </contact>
+    <contact record="523524" date="2017-10-24">
+        <internal person="u11338" role="r14" />
+        <external person="e41" />
+    </contact>
+    <contact record="523531" date="2017-10-24">
+        <internal person="u11338" role="r14" /> 
+        <external person="e44" organisation="o29" />
+        <benefits><receivedBenefit>zaplatil útratu v hospodě v hodnotě 100 kč</receivedBenefit></benefits>
+    </contact>
+    <contact record="523585" date="2017-10-24">
+        <internal person="u1572" role="r3" />
+        <external person="e30" />
+    </contact>
+    <contact record="523585" date="2017-10-24">
+        <internal person="u1572" role="r3" />
+        <external person="e45" role="r21" />
+    </contact>
+    <contact record="523592" date="2017-10-24">
+        <internal person="u1492" role="r3" />
+        <external person="e46" />
+    </contact>
+    <contact record="523822" date="2017-10-25">
+        <internal person="u8116" role="r3" />
+        <external person="e38" organisation="o8" role="r3" />
+    </contact>
+    <contact record="523592" date="2017-10-25">
+        <internal person="u8116" role="r3" />
+        <external person="e47" />
+    </contact>
+    <contact record="523827" date="2017-10-25">
+        <internal person="u6903" role="r3" />
+        <internal person="u655" role="r3" />
+        <internal person="u9064" role="r3" />
+        <external person="e39" role="r3" organisation="o10" />
+        <external person="e48" role="r3" organisation="o10" />
+        <external person="e49" role="r3" organisation="o10" />
+    </contact>
+    <contact record="523827" date="2017-10-25">
+        <internal person="u6903" role="r3" />
+        <external person="e50" role="r3" organisation="o8" /> 
+    </contact>
+    <contact record="523827">
+        <internal person="u6903" role="r3" />
+        <external person="e51" organisation="o8" role="r14" />
+        <external person="e52" organisation="o8" role="r14" />
+    </contact>
+    <contact record="523857" date="2017-10-25">
+        <internal person="u6812" role="r3" />
+        <external person="e17" organisation="o11" />
+    </contact>
+    <contact record="523911" date="2017-10-25">
+        <internal role="r3" person="u7762" />
+        <external person="e53" organisation="o0" />
+    </contact>
+    <contact record="523950" date="2017-10-25">
+        <internal person="u6903" role="r3" />
+        <external person="x1" organisation="o21" />
+    </contact>
+    <contact record="523950" date="2017-10-25">
+        <internal person="u6903" role="r3" />
+        <external person="e54" organisation="o30" />
+    </contact>
+    <contact record="524044" date="2017-10-25">
+        <internal person="u7839" role="r14" />
+        <external person="e55" organisation="o31" />
+        <external person="e56" organisation="o32" />
+        <external person="e57" />
+    </contact>
+    <contact record="524054" date="2017-10-26">
+        <internal person="u80" role="r14" />
+        <external person="e58" organisation="o9" />
+    </contact>
+    <contact record="524876" date="2017-10-26">
+        <internal person="u10690" role="r6" />
+        <external person="e59" organisation="o33" />
+    </contact>
+  </contacts>
+</registr> 
