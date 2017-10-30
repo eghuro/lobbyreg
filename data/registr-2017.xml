@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE registr PUBLIC -//IDN eghuro.cz//LOBBY 1.00//EN purl.org/eghuro/pirate/registr/v1>
-<registr since="2017-10-21" until="2017-10-28" version="1.00">
+<registr since="2017-10-09" until="2017-10-28" version="1.00">
   <persons>
     <person id="u6903" surname="Peksa" name="Mikuláš" pid="Mikulas.Peksa" wikidata="Q30301690" />
     <person id="e8" surname="Kaplán" name="Ivo" />
@@ -9,7 +9,7 @@
     <person id="e11" name="Josef" surname="Břečka" />
     <person id="p0" name="Tony" surname="Motakis" />
     <person id="u283" surname="Ferjenčík" name="Mikuláš" pid="Mikulas.Ferjencik" wikidata="Q14806410" />
-    <person id="x0" /><person id="x1" />
+    <person id="x0" /><person id="x1" /><person id="x2" /><person id="x3" /><person id="x4" />
     <person id="u7762" name="Jan" surname="Lipavsky" pid="Jan.Lipavsky" wikidata="Q42402111" />
     <person id="e12" name="Hayato" surname="Okamura" wikidata="Q29346164" />
     <person id="u5104" name="Petr" surname="Lysek" pid="Petr.Lysek" />
@@ -91,6 +91,35 @@
     <person id="e61" name="Ivo" surname="Moravec" wikidata="Q29730069" />
     <person id="e63" name="Šimon" surname="Heller" />
     <person id="e64" name="Petr" surname="Čulík" />
+    <person id="e65" name="Antonín" surname="Gold" />
+    <person id="e66" name="Pavel" surname="Hryzlík" />
+    <person id="e67" name="Daniel" surname="Pitek" wikidata="Q24237120" />
+    <person id="e68" name="Jan" surname="Slezák" />
+    <person id="e69" name="Ondřej" surname="Martan" />
+    <person id="e70" name="Radek" surname="Lacko" />
+    <person id="e71" name="Michal" surname="Doktor" wikidata="Q12036696" />
+    <person id="u5403" name="Michal" surname="Havránek" pid="Michal.Havranek" />
+    <person id="e72" name="Michal" surname="Kučera" wikidata="Q14806405" />
+    <person id="e73" name="Milan" surname="Šťovíček" wikidata="Q12037364" />
+    <person id="e74" name="Filip" surname="Usak" />
+    <person id="e75" name="Filip" surname="Bouška" />
+    <person id="u1470" name="Josef" surname="Kadleček" pid="Josef.Kadlecek" />
+    <person id="e76" name="Jan" surname="Petránek" />
+    <person id="u1643" name="Vladimír" surname="Charvát" pid="Vladimir.Charvat" />
+    <person id="u6926" name="Michal" surname="Ketner" pid="Michal.Ketner" />
+    <person id="e77" name="Miroslav" surname="Cink" />
+    <person id="e78" name="Ivan" surname="Kelner" />
+    <person id="e79" name="Karel" surname="Novotný" />
+    <person id="e80" name="Filip" surname="Votoček" />
+    <person id="e81" name="Roman" surname="Valeš" />
+    <person id="e82" name="Josef" surname="Šlerka" wikidata="Q15290678" />
+    <person id="e83" name="Jan" surname="Snopek" />
+    <person id="e84" surname="Rikla" />
+    <person id="u10569" name="Tibor" surname="Vansa" pid="Tibor.Vansa" />
+    <person id="e85" name="Jitka" surname="Jelínková" />
+    <person id="e86" name="Jana" surname="Moravcová" />
+    <person id="u4797" name="Jan" surname="Köchert" pid="Jan.Kochert" />
+    <person id="e87" name="Jakub" surname="Mráček" />
   </persons>
   <organisations>
     <organisation id="o3" name="Evropani.cz" wikidata="Q16946982" />
@@ -128,8 +157,19 @@
     <organisation id="o34" name="Brmlab" />
     <organisation id="o35" name="HOPB" />
     <organisation id="o36" name="ČSSD" wikidata="Q341148" />
+    <organisation id="o37" name="PASSERINVEST GROUP, a.s." ico="26118963" />
+    <organisation id="o38" name="Tak jo!" />
+    <organisation id="o39" name="Realisté" wikidata="Q27910287" />
+    <organisation id="o40" name="Svobodní" wikidata="Q164878" />
+    <organisation id="o41" name="Nadační fond nezávislé žurnalistiky" />
+    <organisation id="o42" name="platforma pro sociální bydlení" />
+    <organisation id="o43" name="platformoa pro nezávislost a pluralitu sdělovacích prostředků Svobodu Médiím" />
+    <organisation id="o44" name="Festival Demokracie" />
+    <organisation id="o45" name="Zdravotní ústav" wikidata="Q41568166" />
+    <organisation id="o46" name="Institut pro křesťansko-demokratickou politiku" wikidata="Q28929947" />
   </organisations>
   <roles>
+    <role id="r0" name="kandidát" />
     <role id="r3" name="poslanec" />
     <role id="r4" name="krajsky zastupitel" />
     <role id="r5" name="obcan" />
@@ -153,8 +193,100 @@
     <role id="r22" name="clen RV" />
     <role id="r23" name="tiskovy mluvci" />
     <role id="r1" name="asistent" />
+    <role id="r24" name="sponzor" />
+    <role id="r25" name="ředitel" />
+    <role id="r26" name="specialista na právní ochranu dřevin" />
   </roles>
   <contacts>
+    <contact date="2017-10-09" record="521685">
+        <internal person="u10569" role="r9" />
+        <event name="Kdo se bojí digitální ekonomiky" organiser="o46" />
+    </contact>
+    <contact date="2017-10-10" record="521790">
+        <internal person="u4797" />
+        <external person="e87" organisation="o1" />
+    </contact>
+    <contact date="2017-10-09" record="521841">
+        <internal person="u9064" role="r9" />
+        <external person="e85" role="r26" />
+        <external person="e86" organisation="o45" />
+    </contact> 
+    <contact date="2017-10-12" record="521911">
+        <internal person="u10569" role="r9" />
+        <event name="MÉDIA A POLITIKA: KDO KOHO KONTROLUJE?" organizer="o43" />
+        <external person="e82" role="r26" organisation="o41" />
+    </contact>
+    <contact date="2017-10-11" record="521911">
+        <internal person="u10569" role="r9" />
+        <event name="Má občanský lobbing smysl?">
+            <organiser organisation="o11" />
+            <organiser organisation="o44" />
+        </event>
+        <external person="e83" organisation="o42" />
+        <external person="e84" organisation="o42" />
+    </contact>
+    <contact date="2017-10-13" record="522049">
+        <internal person="u655" role="r0" />
+        <external person="e81" role="r24" />
+    </contact>
+    <contact date="2017-10-14" record="522130">
+        <internal person="u6903" role="r0" />
+        <external person="e80" organisation="o40" />
+    </contact>
+    <contact date="2017-10-15" record="522191">
+        <event name="Krajská schůze KSOLK" />
+        <internal person="u1572" role="r0" />
+        <external person="e79" />
+    </contact>
+    <contact date="2017-10-15" record="522193">
+        <internal person="u5903" role="r0" />
+        <internal person="u1643" role="r0" />
+        <internal person="u6925" role="r0" />
+        <external person="e77" />
+        <external person="e78" organisation="o39" role="r0" /> 
+    </contact>
+    <contact date="2017-10-11" record="522222">
+        <internal person="u1470" role="r14" />
+        <external person="e76" role="r14" organisation="o8" />
+    </contact>
+    <contact date="2017-10-16" record="522250">
+        <external person="e75" organisation="o38" />
+        <internal person="u6903" role="r12" />
+    </contact>
+    <contact record="522359" date="2017-10-17">
+        <internal person="u6903" role="r0" />
+        <external person="u5403" organisation="o8" />
+        <external person="e72" organisation="o8" />
+        <external person="e73" organisation="o9" />
+        <external person="e74" organisation="o9" />
+    </contact>
+    <contact record="522426">
+        <internal person="u1199" role="r0" />
+        <external person="e71" organisation="o10" />
+    </contact>
+    <contact record="522471" date="2017-10-19">
+        <internal person="u283" role="r4" />
+        <external person="e68" organisation="o36" role="r4" />
+        <external person="e69" organisation="o10" role="r4" />
+        <external person="e70" organisation="o24" role="r4" />
+        <external person="x2" organisation="o37" />
+        <external person="x3" organisation="o37" />
+        <external person="x4" organisation="o37" />
+    </contact>
+    <contact record="522584" date="2017-10-19">
+        <internal person="u6903" role="r15" />
+        <external person="e67" organisation="o0" />
+        <benefits><receivedBenefit>jedna vizitka</receivedBenefit><emittedBenefit>nekolik vizitek</emittedBenefit></benefits>
+    </contact>
+    <contact record="522584" date="2017-10-19">
+        <internal person="u6903" role="r15" />
+        <external person="e51" role="r14" organisation="o8" />
+        <external person="e66" role="r14" organisation="o8" />
+    </contact> 
+    <contact record="522584" date="2017-10-19">
+        <external person="e65" role="r0" organisation="o24" />
+        <internal person="u6903" role="r0" />
+    </contact>
     <contact record="522779" date="2017-10-22">
         <internal person="u747" role="r3" />
         <external person="e50" role="r3" organisation="o8" />
