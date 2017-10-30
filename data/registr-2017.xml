@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE registr SYSTEM "C:\Users\student\Downloads\registr.dtd">
+<!DOCTYPE registr SYSTEM "https://purl.org/eghuro/pirate/registr/v1">
 <registr since="2017-10-09" until="2017-10-28" version="1.00">
 	<persons>
 		<person id="u6903" surname="Peksa" name="Mikuláš" pid="Mikulas.Peksa" wikidata="Q30301690"/>
