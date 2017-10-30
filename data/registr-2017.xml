@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE registr PUBLIC -//IDN eghuro.cz//LOBBY 1.00//EN purl.org/eghuro/pirate/registr/v1>
-<registr since="2017-10-23" until="2017-10-28" version="1.00">
+<registr since="2017-10-21" until="2017-10-28" version="1.00">
   <persons>
     <person id="u6903" surname="Peksa" name="Mikuláš" pid="Mikulas.Peksa" wikidata="Q30301690" />
     <person id="e8" surname="Kaplán" name="Ivo" />
     <person id="e9" name="Petr" surname="Jantač" />
     <person id="e10" name="Pavel" surname="Krnáč" />
     <person id="e11" name="Josef" surname="Břečka" />
-    <person id="p0" name="Tony" surname="Mostakis" />
+    <person id="p0" name="Tony" surname="Motakis" />
     <person id="u283" surname="Ferjenčík" name="Mikuláš" pid="Mikulas.Ferjencik" wikidata="Q14806410" />
     <person id="x0" /><person id="x1" />
     <person id="u7762" name="Jan" surname="Lipavsky" pid="Jan.Lipavsky" wikidata="Q42402111" />
@@ -86,6 +86,11 @@
     <person id="u80" name="Michael" surname="Polák" pid="Michael.xChaos.Polak" wikidata="Q6052559" />
     <person id="u10690" name="Radek" surname="Strouhal" pid="Radek.Strouhal" />
     <person id="e59" name="Pavel" surname="Sekula" />
+    <person id="u5073" name="Ivo" surname="Vlasatý" pid="Ivo.Vlasaty" />
+    <person id="e60" name="Milan" surname="Brabec" />
+    <person id="e61" name="Ivo" surname="Moravec" wikidata="Q29730069" />
+    <person id="e63" name="Šimon" surname="Heller" />
+    <person id="e64" name="Petr" surname="Čulík" />
   </persons>
   <organisations>
     <organisation id="o3" name="Evropani.cz" wikidata="Q16946982" />
@@ -121,6 +126,8 @@
     <organisation id="o32" name="ČSOP JARO Jaroměř" />
     <organisation id="o33" name="Aliance Voda Zlínsku" />
     <organisation id="o34" name="Brmlab" />
+    <organisation id="o35" name="HOPB" />
+    <organisation id="o36" name="ČSSD" wikidata="Q341148" />
   </organisations>
   <roles>
     <role id="r3" name="poslanec" />
@@ -143,8 +150,36 @@
     <role id="r19" name="poradce pro oblast dopravy a mobility" />
     <role id="r20" name="starosta" />
     <role id="r21" name="koordinátor rozvoje cyklistické dopravy ČR" />
+    <role id="r22" name="clen RV" />
+    <role id="r23" name="tiskovy mluvci" />
+    <role id="r1" name="asistent" />
   </roles>
   <contacts>
+    <contact record="522779" date="2017-10-22">
+        <internal person="u747" role="r3" />
+        <external person="e50" role="r3" organisation="o8" />
+    </contact>
+    <contact record="522779" date="2017-10-22">
+        <internal person="u747" role="r3" />
+        <external perso="e15" role="r3" organisation="o9" />
+    </contact>
+    <contact record="522779" date="2017-20-22">
+        <internal person="u747" role="r3" />
+        <external person="e33" role="r3" organisation="o24" /> 
+    </contact>
+    <contact record="522780" date="2017-10-22">
+        <internal person="u655" role="r3" />
+        <external person="e1" role="r3" organisation="o24" />
+    </contact>
+    <contact record="522914" date="2017-10-22">
+        <internal person="u1572" role="r3" />
+        <external person="e64" organisation="o36" role="r13" />
+    </contact>
+    <contact record="522938" date="2017-10-21">
+        <internal person="u5073" role="r22" />
+        <external person="e60" organisation="o35" role="r23" />
+        <external person="e62" organisation="o35" role="r4" />
+    </contact>
     <contact record="524466" date="2017-10-26">
       <internal person="u6903" role="r3" />
       <event organisation="o3" name="DEBATA K NÁVRHŮM IMPLEMENTACE ČLÁNKU 46 SMLOUVY O EVROPSKÉ UNII V OBLASTI SPOLEČNÉ OBRANNÉ A BEZPEČNOSTNÍ POLITIKY" />
@@ -167,6 +202,10 @@
     <contact record="524427" date="2017-10-27">
         <internal person="u283" role="r4" />
         <external person="x0" role="r5" />
+    </contact>
+    <contact record="522938" date="2017-10-27">
+        <internal person="u5073" role="r22" />
+        <external person="e63" role="r1" organisation="o1" />
     </contact>
     <contact record="524354" date="2017-10-26">
         <internal person="u7762" role="r3" />
