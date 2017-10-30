@@ -1,21 +1,21 @@
-<!ELEMENT registr (persons, organisations, contacts, roles)>
+<!ELEMENT registr (persons | organisations | contacts | roles)>
 <!ELEMENT persons (person)*>
 <!ELEMENT person (associate)*>
 <!ELEMENT roles (role)*>
-<!ELEMENT role>
+<!ELEMENT role EMPTY>
 <!ELEMENT organisations (organisation)*>
-<!ELEMENT organisation>
+<!ELEMENT organisation EMPTY>
 <!ELEMENT contacts (contact)*>
-<!ELEMENT contact (internal, external, related, event)* benefits?>
+<!ELEMENT contact ((internal | external | related | event)* | benefits?)>
 <!ELEMENT benefits (receivedBenefit*, emittedBenefit*)>
-<!ELEMENT receivedBenefit>
-<!ELEMENT emittedBenefit>
-<!ELEMENT internal>
+<!ELEMENT receivedBenefit (#PCDATA)>
+<!ELEMENT emittedBenefit (#PCDATA)>
+<!ELEMENT internal EMPTY>
 <!ELEMENT external (representing)*>
-<!ELEMENT representing>
-<!ELEMENT related>
-<!ELEMENT associate>
-<!ELEMENT event>
+<!ELEMENT representing EMPTY>
+<!ELEMENT related EMPTY>
+<!ELEMENT associate EMPTY>
+<!ELEMENT event EMPTY>
 <!ATTLIST event
   organisation CDATA #IMPLIED
   name CDATA #IMPLIED
