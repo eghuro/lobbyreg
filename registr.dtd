@@ -33,14 +33,14 @@
   version CDATA #FIXED "1.00"
 >
 <!ATTLIST person
-  id ID #REQUIRED
-  surname CDATA #REQUIRED
+  id IDREF #REQUIRED
+  surname CDATA #IMPLIED
   name CDATA #IMPLIED
   pid CDATA #IMPLIED
   wikidata CDATA #IMPLIED
 >
 <!ATTLIST role
-  id ID #REQUIRED
+  id IDREF #REQUIRED
   name CDATA #IMPLIED
 >
 <!ATTLIST contact
@@ -49,21 +49,21 @@
   place CDATA #IMPLIED
 >
 <!ATTLIST internal
-  person ID #REQUIRED
+  person IDREF #REQUIRED
   role CDATA #IMPLIED
 >
 <!ATTLIST external
-  person ID #REQUIRED
+  person IDREF #REQUIRED
   role CDATA #IMPLIED
   organisation CDATA #IMPLIED
 >
 <!ATTLIST organisation
   id ID #REQUIRED
   name CDATA #IMPLIED
-  ico CDATA #REQUIRED
+  ico CDATA #IMPLIED
   wikidata CDATA #IMPLIED
 >
 <!ATTLIST representing
-  organisation CDATA #REQUIRED
+  organisation IDREF #REQUIRED
   role CDATA #IMPLIED
 >
