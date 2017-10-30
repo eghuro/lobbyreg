@@ -1,4 +1,4 @@
-<!ELEMENT registr (persons | organisations | contacts | roles)>
+<!ELEMENT registr (persons | organisations | contacts | roles)*>
 <!ELEMENT persons (person)*>
 <!ELEMENT person (associate)*>
 <!ELEMENT roles (role)*>
@@ -6,7 +6,7 @@
 <!ELEMENT organisations (organisation)*>
 <!ELEMENT organisation EMPTY>
 <!ELEMENT contacts (contact)*>
-<!ELEMENT contact ((internal | external | related | event)* | benefits?)>
+<!ELEMENT contact ((internal | external | related | event)*, benefits?)>
 <!ELEMENT benefits (receivedBenefit*, emittedBenefit*)>
 <!ELEMENT receivedBenefit (#PCDATA)>
 <!ELEMENT emittedBenefit (#PCDATA)>
@@ -15,9 +15,13 @@
 <!ELEMENT representing EMPTY>
 <!ELEMENT related EMPTY>
 <!ELEMENT associate EMPTY>
-<!ELEMENT event EMPTY>
+<!ELEMENT event (organiser)*>
+<!ELEMENT organiser EMPTY>
+<!ATTLIST organiser
+  organisation IDREF #REQUIRED
+  >
 <!ATTLIST event
-  organisation CDATA #IMPLIED
+  organisation IDREF #IMPLIED
   name CDATA #IMPLIED
 >
 <!ATTLIST associate
@@ -33,14 +37,14 @@
   version CDATA #FIXED "1.00"
 >
 <!ATTLIST person
-  id IDREF #REQUIRED
+  id ID #REQUIRED
   surname CDATA #IMPLIED
   name CDATA #IMPLIED
   pid CDATA #IMPLIED
   wikidata CDATA #IMPLIED
 >
 <!ATTLIST role
-  id IDREF #REQUIRED
+  id ID #REQUIRED
   name CDATA #IMPLIED
 >
 <!ATTLIST contact
