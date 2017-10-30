@@ -54,12 +54,12 @@
 >
 <!ATTLIST internal
   person IDREF #REQUIRED
-  role CDATA #IMPLIED
+  role IDREF #IMPLIED
 >
 <!ATTLIST external
   person IDREF #REQUIRED
-  role CDATA #IMPLIED
-  organisation CDATA #IMPLIED
+  role IDREF #IMPLIED
+  organisation IDREF #IMPLIED
 >
 <!ATTLIST organisation
   id ID #REQUIRED
@@ -69,5 +69,5 @@
 >
 <!ATTLIST representing
   organisation IDREF #REQUIRED
-  role CDATA #IMPLIED
+  role IDREF #IMPLIED
 >
