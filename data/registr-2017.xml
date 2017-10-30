@@ -200,7 +200,7 @@
   <contacts>
     <contact date="2017-10-09" record="521685">
         <internal person="u10569" role="r9" />
-        <event name="Kdo se bojí digitální ekonomiky" organiser="o46" />
+        <event name="Kdo se bojí digitální ekonomiky" organisation="o46" />
     </contact>
     <contact date="2017-10-10" record="521790">
         <internal person="u4797" />
@@ -213,7 +213,7 @@
     </contact> 
     <contact date="2017-10-12" record="521911">
         <internal person="u10569" role="r9" />
-        <event name="MÉDIA A POLITIKA: KDO KOHO KONTROLUJE?" organizer="o43" />
+        <event name="MÉDIA A POLITIKA: KDO KOHO KONTROLUJE?" organisation="o43" />
         <external person="e82" role="r26" organisation="o41" />
     </contact>
     <contact date="2017-10-11" record="521911">
